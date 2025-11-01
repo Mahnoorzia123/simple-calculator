@@ -18,4 +18,4 @@ Enter 2nd number: 0
 Error: Cannot divide by zero.
 
 ## Author
-Created by Mahnoorzia
+Created by **Mahnoorzia**
